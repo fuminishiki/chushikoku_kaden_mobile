@@ -243,9 +243,6 @@ m
 folium.Marker(location=[34.988585,132.1877644],popup='ヤマダデンキ ヤマダアウトレット江津店　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
 m
 
-folium.Marker(location=[34.6383528,133.9051328],popup='ベスト電器 岡山本店　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
-m
-
 folium.Marker(location=[34.7897131,134.0115197],popup='ヤマダデンキ テックランド赤磐店　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
 m
 
@@ -354,18 +351,6 @@ m
 folium.Marker(location=[34.069329,131.7603143],popup='家電住まいる館&YAMADA web.com新南陽店　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
 m
 
-folium.Marker(location=[34.0021497,131.3489655],popup='ベスト電器 宇部東店　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
-m
-
-folium.Marker(location=[33.9626524,131.2386424],popup='ベスト電器 山口宇部店　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
-m
-
-folium.Marker(location=[34.1605008,131.4701997],popup='ベスト電器 山口店　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
-m
-
-folium.Marker(location=[34.0066833,130.9371179],popup='ベスト電器 ゆめシティ下関本店　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
-m
-
 folium.Marker(location=[34.0103895,131.3529191],popup='ヤマダデンキ テックランド阿知須店　　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
 m
 
@@ -421,9 +406,6 @@ folium.Marker(location=[34.0584045,134.2418245],popup='ヤマダデンキ ヤマ
 m
 
 folium.Marker(location=[34.0871234,134.5497321],popup='ヤマダデンキ Tecc LIFE SELECT 徳島本店　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
-m
-
-folium.Marker(location=[34.4882535,134.1867706],popup='マツヤデンキ 小豆島店　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
 m
 
 folium.Marker(location=[34.2518415,133.9308102],popup='ヤマダデンキ テックランド綾川店　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
@@ -682,6 +664,24 @@ folium.Marker(location=[35.3729096,132.7368258],popup='100満ボルト 出雲店
 m
 
 folium.Marker(location=[35.4363334,133.0495786],popup='100満ボルト 松江本店　　　　　　　　　',icon=folium.Icon(color="lightgreen")).add_to(m)
+m
+
+folium.Marker(location=[34.6383528,133.9051328],popup='ベスト電器 岡山本店　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
+m
+
+folium.Marker(location=[34.0021497,131.3489655],popup='ベスト電器 宇部東店　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
+m
+
+folium.Marker(location=[33.9626524,131.2386424],popup='ベスト電器 山口宇部店　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
+m
+
+folium.Marker(location=[34.1605008,131.4701997],popup='ベスト電器 山口店　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
+m
+
+folium.Marker(location=[34.0066833,130.9371179],popup='ベスト電器 ゆめシティ下関本店　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
+m
+
+folium.Marker(location=[34.4882535,134.1867706],popup='マツヤデンキ 小豆島店　　　　　　　　　　',icon=folium.Icon(color="darkblue")).add_to(m)
 m
 
 folium.Marker(location=[35.5131572,134.2009966],popup='パソコン工房 鳥取安長店　　　　　　　　　　　',icon=folium.Icon(color="green")).add_to(m)
